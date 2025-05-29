@@ -6,7 +6,7 @@ This repository contains two experimental notebooks focused on fine-tuning large
 
 ## 📁 Contents
 ### `lora-qwen-vl-trl-quantization.ipynb`
-"""# Fine-Tuning Qwen2.5-VL-3B with LoRA and TRL (Quantized)
+"""# Fine-Tuning Qwen2.5-VL-3B with QLoRA and TRL (Quantized)
 
 ## Overview
 This notebook demonstrates how to fine-tune the [Qwen2.5-VL-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct) model — a vision-language model — using the LoRA (Low-Rank Adaptation) technique, in combination with quantization-aware training via BitsAndBytes 4-bit inference and the Hugging Face `trl` library (`SFTTrainer`).
