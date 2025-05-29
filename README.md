@@ -1,4 +1,4 @@
-# 🧪 Reinforcement Fine-Tuning with GRPO + LoRA/QLoRA on Qwen and DeepSeek-R1
+# 🧪 Reinforcement Fine-Tuning with GRPO + LoRA/QLoRA on Qwen inspired from DeepSeek-R1
 
 This repository contains two experimental notebooks focused on fine-tuning large language models (LLMs) and Visual Language models(VLMs) for math reasoning and chart data using [🤗 TRL](https://github.com/huggingface/trl), [LoRA/QLoRA](https://github.com/huggingface/peft), and [GRPO (Generalized Reinforcement Preference Optimization)](https://huggingface.co/docs/trl/main/en/grpo) and SFT (Supervised Finetuneing). 
 
