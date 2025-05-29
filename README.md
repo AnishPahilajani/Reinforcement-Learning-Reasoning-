@@ -48,16 +48,3 @@ This notebook demonstrates how to fine-tune the [Qwen2.5-VL-3B-Instruct](https:/
   - Structured format compliance
 
 ---
-
-## 🎯 Objective
-
-I aim to train instruction-following LLMs to reason through multi-step math problems and output in a consistent, machine-readable format:
-
-<reasoning>
-Step-by-step explanation...
-</reasoning>
-<answer>
-Final numeric answer
-</answer>
-
----
